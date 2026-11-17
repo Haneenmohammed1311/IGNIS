@@ -3,9 +3,16 @@
 **Sensor-aware, evidence-grounded analytics for NASA FIRMS thermal detections.**
 Built for the NASA Space Apps Challenge 2026, challenge **Harmonization of MODIS and VIIRS Hot Spots**.
 
-**Result: First place, Best Feasible Solution.**
+`**Result: First place, Best Feasible Solution.**`
 
-![IGNIS overview for Brazil 2025](docs/images/overview.png)
+**DEMO:**
+
+https://github.com/user-attachments/assets/c58aac1b-48b8-44cb-a6b3-550e8b23d868
+
+
+
+
+
 
 | | |
 |---|---|
@@ -17,9 +24,7 @@ Built for the NASA Space Apps Challenge 2026, challenge **Harmonization of MODIS
 | **Frontend** | React, TypeScript, MapLibre, ECharts |
 | **AI** | LangGraph workflows, Groq (`openai/gpt-oss-120b` and `openai/gpt-oss-20b`), local retrieval over a NASA FIRMS knowledge base |
 | **Companion app** | Forest Guardian, a decision-oriented workspace for Mato Grosso, Brazil: https://forest-guardian-2latee.base44.app/ |
-| **Demo video** ||
 
-## Table of contents
 
 1. [The problem](#1-the-problem)
 2. [Our idea](#2-our-idea)

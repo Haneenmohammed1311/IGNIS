@@ -464,7 +464,9 @@ Live model calls need a valid `GROQ_API_KEY`. The automated tests do not call Gr
 
 | Name | Role |
 |---|---|
-| **Haneen Mohammed Mousa** | AI engineering: AI Insights, Intelligence Assistant, knowledge retrieval and analytical queries |
-| [ADD NAME] | [ADD ROLE] |
-| [ADD NAME] | [ADD ROLE, for example the Forest Guardian business-impact app] |
+| **Haneen Mohammed Mousa** | AI engineering: AI Insights, Intelligence Assistant, knowledge retrieval and analytical queries, UI |
+| Mohammed Mamdouh | Data Science, BackEnd  |
+| MennaTullah Mahmoud | Data Analytics |
+|Amr Khaled |UI/UX|
+|Shams Mostafa|The Forest Guardian business-impact app|
 
